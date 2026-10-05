@@ -1,0 +1,126 @@
+student_id,name,age,gender,city,course,attendance,study_hours,marks_python,marks_ml,final_score
+1001,Student_1,19,Male,Roorkee,BSc IT,72.7,6.9,75.0,48.0,67.1
+1002,Student_2,25,Female,Delhi,BSc IT,73.5,5.4,64.0,59.0,61.2
+1003,Student_3,24,Female,Roorkee,BCA,58.5,,81.0,58.0,63.5
+1004,Student_4,22,Male,Delhi,BSc IT,78.4,5.5,54.0,76.0,70.3
+1005,Student_5,22,Female,Delhi,BCA,69.4,3.4,68.0,68.0,63.8
+1006,Student_6,25,Female,Roorkee,B.Tech,74.7,4.7,99.0,42.0,66.9
+1007,Student_7,19,Male,Meerut,MCA,71.2,4.7,71.0,72.0,69.8
+1008,Student_8,24,Female,Haridwar,MCA,79.1,5.7,85.0,57.0,76.3
+1009,Student_9,20,Female,Meerut,BCA,62.4,6.8,69.0,82.0,69.0
+1010,Student_10,19,Female,Roorkee,BSc IT,65.3,3.1,75.0,57.0,57.7
+1011,Student_11,23,Female,Dehradun,MCA,100.0,4.8,67.0,57.0,65.2
+1012,Student_12,26,Female,Haridwar,B.Tech,,7.7,66.0,72.0,78.1
+1013,Student_13,24,Male,Dehradun,MCA,69.0,3.7,59.0,75.0,65.5
+1014,Student_14,25,Female,Dehradun,MCA,98.4,3.5,73.0,71.0,74.5
+1015,Student_15,24,Female,Delhi,BSc IT,100.0,5.4,58.0,43.0,57.7
+1016,Student_16,25,Male,Roorkee,BCA,68.3,6.5,76.0,72.0,71.7
+1017,Student_17,23,Female,Meerut,B.Tech,76.3,5.0,81.0,52.0,69.3
+1018,Student_18,20,Male,Roorkee,B.Tech,83.4,7.4,72.0,68.0,76.5
+1019,Student_19,25,Male,Dehradun,MCA,97.3,6.5,65.0,46.0,68.1
+1020,Student_20,22,Male,Delhi,MCA,70.1,6.5,73.0,71.0,73.4
+1021,Student_21,23,Female,Meerut,BCA,77.5,6.0,64.0,55.0,66.1
+1022,Student_22,21,Male,Dehradun,BSc IT,87.8,9.2,79.0,48.0,76.5
+1023,Student_23,20,Male,Dehradun,BSc IT,84.3,4.6,46.0,74.0,66.2
+1024,Student_24,26,Male,Saharanpur,BCA,76.2,1.4,64.0,68.0,62.9
+1025,Student_25,25,Female,Saharanpur,BCA,78.7,,44.0,57.0,58.1
+1026,Student_26,24,Female,Delhi,BCA,66.3,4.2,50.0,84.0,58.5
+1027,Student_27,22,Male,Haridwar,BCA,77.6,5.2,84.0,59.0,75.1
+1028,Student_28,25,Male,Haridwar,BSc IT,77.3,7.4,79.0,65.0,80.4
+1029,Student_29,23,Female,Delhi,BSc IT,82.3,2.1,59.0,68.0,57.9
+1030,Student_30,22,Male,Delhi,BCA,74.4,2.7,50.0,57.0,48.4
+1031,Student_31,22,Female,Dehradun,B.Tech,84.7,2.1,32.0,71.0,53.3
+1032,Student_32,20,Male,Roorkee,BCA,90.1,3.6,61.0,58.0,65.2
+1033,Student_33,19,Female,Roorkee,MCA,81.6,5.8,97.0,60.0,84.2
+1034,Student_34,23,Male,Saharanpur,B.Tech,83.5,5.9,73.0,83.0,80.5
+1035,Student_35,26,Male,Haridwar,B.Tech,80.5,5.5,61.0,51.0,61.2
+1036,Student_36,19,Female,Haridwar,BSc IT,80.0,2.5,74.0,34.0,52.1
+1037,Student_37,25,Male,Haridwar,BCA,72.8,0.8,49.0,86.0,59.8
+1038,Student_38,25,Female,Meerut,BCA,83.2,5.1,64.0,98.0,78.5
+1039,Student_39,21,Female,Roorkee,MCA,79.0,4.2,69.0,,62.4
+1040,Student_40,24,Female,Roorkee,MCA,100.0,5.8,67.0,40.0,70.2
+1041,Student_41,20,Female,Dehradun,BSc IT,95.7,6.3,77.0,61.0,80.6
+1042,Student_42,25,Female,Haridwar,BSc IT,83.9,5.2,72.0,61.0,72.9
+1043,Student_43,24,Male,Meerut,MCA,72.4,6.4,76.0,63.0,69.5
+1044,Student_44,21,Male,Haridwar,BSc IT,68.9,5.4,60.0,51.0,62.6
+1045,Student_45,19,Male,Haridwar,MCA,91.9,6.0,79.0,73.0,80.9
+1046,Student_46,26,Female,,B.Tech,82.6,,88.0,72.0,77.1
+1047,Student_47,22,Male,Roorkee,MCA,84.8,4.7,56.0,,61.6
+1048,Student_48,26,Male,Delhi,BCA,62.6,5.4,57.0,74.0,67.9
+1049,Student_49,24,Male,Delhi,BSc IT,89.3,6.5,84.0,92.0,90.2
+1050,Student_50,25,Male,,BCA,84.5,4.3,66.0,67.0,69.7
+1051,Student_51,25,Male,Meerut,BCA,68.9,5.9,85.0,61.0,74.3
+1052,Student_52,20,Male,Dehradun,BCA,75.3,4.5,63.0,63.0,59.0
+1053,Student_53,21,Female,Saharanpur,MCA,82.6,4.8,85.0,73.0,77.5
+1054,Student_54,22,Female,Dehradun,BCA,80.5,6.5,70.0,43.0,63.0
+1055,Student_55,22,Female,Delhi,BCA,77.1,1.4,71.0,67.0,58.8
+1056,Student_56,19,Male,Delhi,B.Tech,79.0,2.7,87.0,60.0,73.7
+1057,Student_57,23,Female,Saharanpur,BSc IT,77.5,2.3,64.0,89.0,75.0
+1058,Student_58,20,Male,Haridwar,BCA,81.5,0.8,57.0,63.0,59.9
+1059,Student_59,24,Female,Dehradun,MCA,94.7,3.8,63.0,87.0,75.1
+1060,Student_60,24,Female,Roorkee,B.Tech,,6.3,73.0,51.0,68.2
+1061,Student_61,26,Female,Haridwar,BSc IT,77.6,4.5,49.0,73.0,63.4
+1062,Student_62,24,Male,Meerut,B.Tech,81.8,5.4,76.0,69.0,74.4
+1063,Student_63,21,Male,Roorkee,BSc IT,83.0,7.0,62.0,54.0,63.8
+1064,Student_64,26,Female,Saharanpur,B.Tech,76.3,7.4,82.0,67.0,79.6
+1065,Student_65,22,Male,Delhi,MCA,62.4,4.9,39.0,81.0,61.3
+1066,Student_66,21,Male,Roorkee,BCA,83.3,7.4,59.0,61.0,65.4
+1067,Student_67,26,Male,Dehradun,BSc IT,97.3,5.2,48.0,43.0,56.7
+1068,Student_68,21,Male,Delhi,BSc IT,64.7,3.5,58.0,65.0,59.5
+1069,Student_69,19,Male,,BCA,88.6,3.9,71.0,53.0,69.9
+1070,Student_70,22,Male,Roorkee,B.Tech,76.7,2.3,66.0,61.0,63.2
+1071,Student_71,25,Female,Delhi,BCA,79.4,3.4,65.0,64.0,63.9
+1072,Student_72,20,Female,Meerut,B.Tech,69.5,4.4,66.0,43.0,58.1
+1073,Student_73,22,Female,Roorkee,BSc IT,76.7,6.4,70.0,44.0,64.3
+1074,Student_74,20,Male,Dehradun,BCA,93.0,8.1,56.0,,74.0
+1075,Student_75,24,Female,Dehradun,MCA,85.8,2.5,76.0,,61.5
+1076,Student_76,22,Male,Delhi,BCA,97.3,5.7,76.0,32.0,63.3
+1077,Student_77,21,Male,Meerut,B.Tech,91.8,3.1,73.0,75.0,69.5
+1078,Student_78,20,Male,Meerut,BSc IT,84.4,5.9,75.0,69.0,71.1
+1079,Student_79,23,Male,Saharanpur,BCA,97.4,4.8,72.0,56.0,70.5
+1080,Student_80,24,Female,Meerut,MCA,84.4,1.7,92.0,48.0,66.2
+1081,Student_81,26,Male,Dehradun,BSc IT,,6.7,67.0,76.0,71.3
+1082,Student_82,22,Female,Roorkee,MCA,77.0,3.9,64.0,70.0,65.9
+1083,Student_83,20,Male,Delhi,BCA,80.7,4.0,59.0,96.0,77.3
+1084,Student_84,25,Female,Saharanpur,MCA,73.0,3.1,56.0,70.0,64.4
+1085,Student_85,24,Male,Saharanpur,B.Tech,89.9,3.8,53.0,70.0,67.2
+1086,Student_86,24,Male,Dehradun,B.Tech,68.2,5.8,57.0,63.0,63.9
+1087,Student_87,19,Female,Dehradun,MCA,87.8,4.7,67.0,76.0,70.1
+1088,Student_88,21,Female,Roorkee,BSc IT,78.1,5.6,72.0,73.0,70.4
+1089,Student_89,25,Male,Roorkee,B.Tech,91.7,5.7,69.0,81.0,78.7
+1090,Student_90,25,Female,Delhi,MCA,87.5,7.4,59.0,58.0,70.0
+1091,Student_91,22,Male,Delhi,BSc IT,98.2,4.4,79.0,59.0,75.7
+1092,Student_92,25,Female,Haridwar,BSc IT,87.3,2.3,77.0,59.0,68.6
+1093,Student_93,25,Female,Dehradun,MCA,64.3,6.9,66.0,75.0,72.4
+1094,Student_94,22,Male,Meerut,BCA,79.3,4.4,60.0,84.0,67.4
+1095,Student_95,26,Female,Haridwar,B.Tech,,7.0,75.0,59.0,70.2
+1096,Student_96,21,Male,Meerut,B.Tech,74.8,5.7,70.0,59.0,68.4
+1097,Student_97,20,Male,Saharanpur,BCA,95.1,4.8,51.0,69.0,65.3
+1098,Student_98,24,Male,Dehradun,B.Tech,86.4,5.6,67.0,62.0,67.6
+1099,Student_99,24,Male,Dehradun,BSc IT,73.0,8.5,71.0,77.0,80.5
+1100,Student_100,20,Female,Saharanpur,BCA,69.9,8.7,57.0,36.0,58.9
+1101,Student_101,25,Male,Delhi,B.Tech,,5.1,70.0,54.0,63.8
+1102,Student_102,20,Male,Dehradun,BCA,67.8,5.3,51.0,55.0,58.8
+1103,Student_103,25,Female,Delhi,B.Tech,73.3,6.9,84.0,35.0,65.2
+1104,Student_104,19,Male,Delhi,MCA,83.1,3.5,83.0,52.0,67.4
+1105,Student_105,25,Female,Saharanpur,BCA,91.6,5.6,65.0,53.0,67.1
+1106,Student_106,25,Male,Dehradun,BSc IT,86.1,5.0,72.0,62.0,66.4
+1107,Student_107,25,Female,Saharanpur,BCA,57.1,5.6,39.0,79.0,59.6
+1108,Student_108,24,Female,Saharanpur,B.Tech,83.0,3.5,54.0,62.0,64.4
+1109,Student_109,22,Female,Dehradun,BCA,80.7,2.1,64.0,52.0,53.4
+1110,Student_110,24,Male,Roorkee,BSc IT,84.1,1.3,55.0,64.0,50.5
+1111,Student_111,21,Male,Delhi,B.Tech,96.2,3.0,77.0,79.0,69.4
+1112,Student_112,25,Female,Roorkee,BSc IT,59.4,4.2,92.0,52.0,67.8
+1113,Student_113,23,Male,Dehradun,MCA,74.1,4.5,54.0,53.0,57.7
+1114,Student_114,22,Female,Haridwar,MCA,85.9,8.5,58.0,72.0,75.0
+1115,Student_115,23,Male,Saharanpur,B.Tech,64.2,7.0,71.0,62.0,73.8
+1116,Student_116,23,Female,Saharanpur,BSc IT,94.8,,87.0,73.0,68.8
+1117,Student_117,19,Female,Roorkee,BSc IT,,5.6,53.0,65.0,66.2
+1118,Student_118,20,Male,Saharanpur,BCA,88.5,,71.0,74.0,77.3
+1119,Student_119,20,Male,Roorkee,B.Tech,74.3,4.5,90.0,52.0,66.5
+1120,Student_120,19,Female,Meerut,BCA,88.1,5.3,48.0,65.0,62.2
+1096,Student_96,21,Male,Meerut,B.Tech,74.8,5.7,70.0,59.0,68.4
+1055,Student_55,22,Female,Delhi,BCA,77.1,1.4,71.0,67.0,58.8
+1060,Student_60,24,Female,Roorkee,B.Tech,,6.3,73.0,51.0,68.2
+1118,Student_118,20,Male,Saharanpur,BCA,88.5,,71.0,74.0,77.3
+1078,Student_78,20,Male,Meerut,BSc IT,84.4,5.9,75.0,69.0,71.1
