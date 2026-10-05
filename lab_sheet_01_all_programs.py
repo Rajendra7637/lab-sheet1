@@ -1,16 +1,4 @@
-# %% [markdown]
-# # Lab Sheet-01: Python Environment, Libraries, Jupyter & Dataset Loading
-# **MCA III Semester (Session 2026-2027) - COER University, Roorkee**
-#
-# Each `# %%` block is one experiment (a separate cell in VS Code / Jupyter).
-# In VS Code click **Run Cell** above a block, or open as a notebook
-# (`notebooks/lab_sheet_01.ipynb`).
-#
-# Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-# Dataset: `datasets/students.csv`
 
-# %% [markdown]
-# ## Setup: imports, paths and helper
 
 # %%
 import platform
@@ -52,9 +40,7 @@ def load_students(path=DATA_PATH):
 # %% [markdown]
 # ## Program 1: Install Python and verify the installed version
 
-# %%
-# Install: download from python.org (3.11+) or install Anaconda.
-# Verify in terminal:  python --version
+
 print("Python version :", sys.version)
 print("Version tuple  :", sys.version_info[:3])
 print("Platform       :", platform.platform())
@@ -63,9 +49,7 @@ assert sys.version_info >= (3, 11), "Python 3.11 or above is required"
 # %% [markdown]
 # ## Program 2: Install Jupyter Notebook and launch the interface
 
-# %%
-# Install:  pip install notebook jupyterlab
-# Launch :  jupyter notebook      (or)   jupyter lab
+
 try:
     import notebook
 
@@ -156,13 +140,7 @@ if __name__ == "__main__":
 # %% [markdown]
 # ## Program 10: Create a virtual environment and install libraries
 
-# %%
-# Run these commands in the VS Code terminal (not in this cell):
-#   python -m venv venv
-#   venv\Scripts\activate            (Windows)
-#   source venv/bin/activate         (Linux / macOS)
-#   pip install -r requirements.txt
-#   deactivate
+
 in_venv = sys.prefix != getattr(sys, "base_prefix", sys.prefix)
 print("Running inside a virtual environment:", in_venv)
 print("Python executable:", sys.executable)
