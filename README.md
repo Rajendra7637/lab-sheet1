@@ -18,10 +18,8 @@ some simple graphs.
 | File / Folder | What it does |
 |---|---|
 | `lab_sheet_01_all_programs.py` | All 35 programs in one file. Each program is its own cell. |
-| `notebooks/lab_sheet_01.ipynb` | The same programs as a Jupyter notebook. |
 | `datasets/students.csv` | The dataset I used. It has some missing values and duplicate rows. |
 | `datasets/students_cleaned.csv` | Saved by Program 31 after removing duplicates. |
-| `scripts/generate_dataset.py` | Creates `students.csv` again if it gets deleted. |
 | `outputs/` | The graphs saved by the programs. |
 | `requirements.txt` | The list of libraries to install. |
 
