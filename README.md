@@ -32,36 +32,7 @@ some simple graphs.
 - Scikit-learn
 - Jupyter Notebook
 
-Python version: 3.11 or above.
 
-## How to run it
-
-1. Install Python 3.11 or above.
-2. Open the project folder in VS Code.
-3. Open the terminal and make a virtual environment:
-
-   ```
-   python -m venv venv
-   venv\Scripts\activate
-   ```
-
-   (On Linux or Mac, use `source venv/bin/activate`.)
-
-4. Install the libraries:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-5. Run the whole file:
-
-   ```
-   python lab_sheet_01_all_programs.py
-   ```
-
-   Or open the file in VS Code and click **Run Cell** above any program
-   to run one program at a time. You can also open the `.ipynb` file
-   and run the cells there.
 
 ## What the programs cover
 
@@ -74,11 +45,7 @@ Python version: 3.11 or above.
 - **Programs 32-35:** Load a dataset from Scikit-learn, and make a histogram,
   a scatter plot and a correlation heatmap.
 
-## Notes
 
-- If the dataset is not found, check that you opened the main project folder
-  in VS Code.
-- The graphs are also saved in the `outputs/` folder.
 
 ## Conclusion
 
